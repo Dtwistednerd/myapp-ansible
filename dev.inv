@@ -1,2 +1,3 @@
 [webservers]
-104.197.102.238 ansible_connection=local 
+104.197.102.238 ansible_connection=local
+35.226.10.67 ansible_connection=local
